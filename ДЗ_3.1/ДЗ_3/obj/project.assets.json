@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\petys\\source\\repos\\ДЗ_3\\ДЗ_3\\ДЗ_3.1.csproj",
+      "projectUniqueName": "C:\\Users\\petys\\Desktop\\из гита\\lesson3\\ДЗ_3.1\\ДЗ_3\\ДЗ_3.1.csproj",
       "projectName": "ДЗ_3.1",
-      "projectPath": "C:\\Users\\petys\\source\\repos\\ДЗ_3\\ДЗ_3\\ДЗ_3.1.csproj",
+      "projectPath": "C:\\Users\\petys\\Desktop\\из гита\\lesson3\\ДЗ_3.1\\ДЗ_3\\ДЗ_3.1.csproj",
       "packagesPath": "C:\\Users\\petys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\petys\\source\\repos\\ДЗ_3\\ДЗ_3\\obj\\",
+      "outputPath": "C:\\Users\\petys\\Desktop\\из гита\\lesson3\\ДЗ_3.1\\ДЗ_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
