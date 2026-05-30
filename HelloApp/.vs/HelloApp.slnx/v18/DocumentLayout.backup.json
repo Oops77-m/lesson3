@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petys\\source\\repos\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6F97E-3A6F-1720-C887-42E6DEFDB3CC}|HelloApp\\HelloApp.csproj|c:\\users\\petys\\source\\repos\\helloapp\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6F97E-3A6F-1720-C887-42E6DEFDB3CC}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\petys\\source\\repos\\HelloApp\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloApp\\Program.cs",
+              "ToolTip": "C:\\Users\\petys\\source\\repos\\HelloApp\\HelloApp\\Program.cs*",
+              "RelativeToolTip": "HelloApp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T08:16:27.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
